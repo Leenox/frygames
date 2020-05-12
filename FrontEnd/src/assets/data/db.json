@@ -1,0 +1,22 @@
+{
+ "games": [
+   {
+     "id": 1,
+     "nome": "jogo 1 teste",
+     "descricao": "descricao 1",
+     "video": "video 1",
+     "img": "img1",
+     "requisitos": "rq 1",
+     "avaliacao": "5"
+   },
+   {
+    "id": 2,
+    "nome": "jogo 2 teste",
+    "descricao": "descricao 2",
+    "video": "video 2",
+    "img": "img2",
+    "requisitos": "rq 2",
+    "avaliacao": "3"
+  }
+ ]
+}
