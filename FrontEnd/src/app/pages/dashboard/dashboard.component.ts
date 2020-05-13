@@ -16,7 +16,7 @@ export class DashboardComponent implements OnInit {
   public clicked1: boolean = false;
   public clicked2: boolean = false;
   /* -------------------PARTE IMPORTANTE----------------------------- */
-  public game;
+  public game = {};
   public games = [];
 
   constructor(private gameService: GameService) {}
